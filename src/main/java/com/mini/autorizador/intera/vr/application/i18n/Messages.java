@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr.application.i18n;
+package com.mini.autorizador.intera.vr.application.i18n;
 
 public class Messages {
 

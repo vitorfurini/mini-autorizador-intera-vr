@@ -1,7 +1,9 @@
-package com.mini.autorizador.vr.service.card;
+package com.mini.autorizador.intera.vr.service.card;
 
-import com.mini.autorizador.vr.dto.card.CardDTO;
-import com.mini.autorizador.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.dto.card.CardDTO;
+import com.mini.autorizador.intera.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.dto.card.CardDTO;
+import com.mini.autorizador.intera.vr.entity.card.Card;
 import exception.ApiException;
 
 import java.math.BigDecimal;

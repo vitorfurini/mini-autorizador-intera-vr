@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr.kafka;
+package com.mini.autorizador.intera.vr.kafka;
 
 import lombok.experimental.UtilityClass;
 

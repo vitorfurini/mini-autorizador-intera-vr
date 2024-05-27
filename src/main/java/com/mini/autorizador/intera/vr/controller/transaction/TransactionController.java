@@ -1,7 +1,7 @@
-package com.mini.autorizador.vr.controller.transaction;
+package com.mini.autorizador.intera.vr.controller.transaction;
 
-import com.mini.autorizador.vr.dto.transaction.TransactionDTO;
-import com.mini.autorizador.vr.service.transaction.TransactionService;
+import com.mini.autorizador.intera.vr.dto.transaction.TransactionDTO;
+import com.mini.autorizador.intera.vr.service.transaction.TransactionService;
 import exception.ApiException;
 import exception.transaction.TransactionException;
 import io.swagger.annotations.Api;

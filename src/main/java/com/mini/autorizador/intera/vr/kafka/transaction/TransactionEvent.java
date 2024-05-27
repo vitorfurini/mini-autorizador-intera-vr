@@ -1,7 +1,7 @@
-package com.mini.autorizador.vr.kafka.transaction;
+package com.mini.autorizador.intera.vr.kafka.transaction;
 
 
-import com.mini.autorizador.vr.dto.transaction.TransactionDTO;
+import com.mini.autorizador.intera.vr.dto.transaction.TransactionDTO;
 
 import java.math.BigDecimal;
 

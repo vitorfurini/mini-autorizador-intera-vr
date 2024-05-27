@@ -1,11 +1,11 @@
-package com.mini.autorizador.vr.kafka.transaction;
+package com.mini.autorizador.intera.vr.kafka.transaction;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
-import static com.mini.autorizador.vr.kafka.KafkaTopics.TRANSACTIONS_TOPIC;
+import static com.mini.autorizador.intera.vr.kafka.KafkaTopics.TRANSACTIONS_TOPIC;
 
 @Service
 @RequiredArgsConstructor

@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr;
+package com.mini.autorizador.intera.vr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr.entity.card;
+package com.mini.autorizador.intera.vr.entity.card;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

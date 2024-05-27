@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr;
+package com.mini.autorizador.intera.vr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

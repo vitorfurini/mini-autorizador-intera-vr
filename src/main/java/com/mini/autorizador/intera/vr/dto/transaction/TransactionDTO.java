@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr.dto.transaction;
+package com.mini.autorizador.intera.vr.dto.transaction;
 
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;

@@ -1,15 +1,15 @@
-package com.mini.autorizador.vr.kafka.transaction;
+package com.mini.autorizador.intera.vr.kafka.transaction;
 
-import com.mini.autorizador.vr.dto.transaction.TransactionDTO;
-import com.mini.autorizador.vr.service.card.CartaoService;
-import com.mini.autorizador.vr.service.transaction.TransactionService;
+import com.mini.autorizador.intera.vr.dto.transaction.TransactionDTO;
+import com.mini.autorizador.intera.vr.service.card.CartaoService;
+import com.mini.autorizador.intera.vr.service.transaction.TransactionService;
 import exception.ApiException;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 
-import static com.mini.autorizador.vr.kafka.KafkaTopics.TRANSACTIONS_TOPIC;
+import static com.mini.autorizador.intera.vr.kafka.KafkaTopics.TRANSACTIONS_TOPIC;
 
 @Service
 @RequiredArgsConstructor

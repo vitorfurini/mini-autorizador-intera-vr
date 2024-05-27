@@ -1,7 +1,7 @@
-package com.mini.autorizador.vr.controller.card;
+package com.mini.autorizador.intera.vr.controller.card;
 
-import com.mini.autorizador.vr.dto.card.CardDTO;
-import com.mini.autorizador.vr.service.card.CartaoService;
+import com.mini.autorizador.intera.vr.dto.card.CardDTO;
+import com.mini.autorizador.intera.vr.service.card.CartaoService;
 import exception.ApiException;
 import io.swagger.annotations.Api;
 import jakarta.validation.Valid;

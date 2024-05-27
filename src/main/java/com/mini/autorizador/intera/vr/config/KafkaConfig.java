@@ -1,6 +1,7 @@
-package com.mini.autorizador.vr.config;
+package com.mini.autorizador.intera.vr.config;
 
-import com.mini.autorizador.vr.kafka.transaction.TransactionEvent;
+import com.mini.autorizador.intera.vr.kafka.transaction.TransactionEvent;
+import com.mini.autorizador.intera.vr.kafka.transaction.TransactionEvent;
 import org.apache.kafka.clients.admin.AdminClientConfig;
 import org.apache.kafka.clients.admin.NewTopic;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
@@ -18,7 +19,7 @@ import org.springframework.kafka.support.serializer.JsonDeserializer;
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.mini.autorizador.vr.kafka.KafkaTopics.TRANSACTIONS_TOPIC;
+import static com.mini.autorizador.intera.vr.kafka.KafkaTopics.TRANSACTIONS_TOPIC;
 
 @Configuration
 public class KafkaConfig {

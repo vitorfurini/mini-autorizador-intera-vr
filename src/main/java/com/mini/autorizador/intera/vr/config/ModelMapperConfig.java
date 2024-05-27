@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr.config;
+package com.mini.autorizador.intera.vr.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

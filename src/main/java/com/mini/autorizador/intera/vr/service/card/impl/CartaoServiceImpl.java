@@ -1,10 +1,15 @@
-package com.mini.autorizador.vr.service.card.impl;
+package com.mini.autorizador.intera.vr.service.card.impl;
 
-import com.mini.autorizador.vr.application.i18n.Messages;
-import com.mini.autorizador.vr.dto.card.CardDTO;
-import com.mini.autorizador.vr.entity.card.Card;
-import com.mini.autorizador.vr.repository.jpa.ICartaoRepositoryJpa;
-import com.mini.autorizador.vr.service.card.CartaoService;
+import com.mini.autorizador.intera.vr.application.i18n.Messages;
+import com.mini.autorizador.intera.vr.dto.card.CardDTO;
+import com.mini.autorizador.intera.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.repository.jpa.ICartaoRepositoryJpa;
+import com.mini.autorizador.intera.vr.service.card.CartaoService;
+import com.mini.autorizador.intera.vr.application.i18n.Messages;
+import com.mini.autorizador.intera.vr.dto.card.CardDTO;
+import com.mini.autorizador.intera.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.repository.jpa.ICartaoRepositoryJpa;
+import com.mini.autorizador.intera.vr.service.card.CartaoService;
 import exception.ApiException;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

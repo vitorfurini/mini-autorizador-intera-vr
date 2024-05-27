@@ -1,7 +1,8 @@
-package com.mini.autorizador.vr.repository;
+package com.mini.autorizador.intera.vr.repository;
 
-import com.mini.autorizador.vr.entity.card.Card;
-import com.mini.autorizador.vr.repository.jpa.ICartaoRepositoryJpa;
+import com.mini.autorizador.intera.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.repository.jpa.ICartaoRepositoryJpa;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

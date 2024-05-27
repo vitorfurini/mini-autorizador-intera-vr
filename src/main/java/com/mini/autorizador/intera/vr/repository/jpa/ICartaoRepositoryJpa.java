@@ -1,6 +1,7 @@
-package com.mini.autorizador.vr.repository.jpa;
+package com.mini.autorizador.intera.vr.repository.jpa;
 
-import com.mini.autorizador.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.entity.card.Card;
+import com.mini.autorizador.intera.vr.entity.card.Card;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

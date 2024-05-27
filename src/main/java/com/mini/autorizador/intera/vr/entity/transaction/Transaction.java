@@ -1,4 +1,4 @@
-package com.mini.autorizador.vr.entity.transaction;
+package com.mini.autorizador.intera.vr.entity.transaction;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
